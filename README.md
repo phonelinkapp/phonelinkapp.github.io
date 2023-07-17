@@ -1,6 +1,6 @@
 # Phone Link App
 
-Phone Link App is developed directly by Microsoft Corporation to enable the Windows OS platform to become more unified with an important daily workflow that only happens on the screen of modern smartphone devices. By introducing comprehensive cooperation between smartphones and Windows OS, this lightweight app enables all its users to boost their productivity and remain in touch with their on-the-go messaging and data.
+**[Phone Link App](https://phonelinkapp.github.io/)** is developed directly by Microsoft Corporation to enable the Windows OS platform to become more unified with an important daily workflow that only happens on the screen of modern smartphone devices. By introducing comprehensive cooperation between smartphones and Windows OS, this lightweight app enables all its users to boost their productivity and remain in touch with their on-the-go messaging and data.
 
 
 ## How Does Phone Link App Work?
@@ -9,7 +9,7 @@ The app is incredibly easy to use. Simply download the app on your smartphone an
 
 
 ## Phone Link App Download on PC
-Many Android devices are compatible with the phone link app. The application can be downloaded through the Google Play Store or the MS Store. Few Samsung Galaxy phones have pre-installed applications. Sometimes you can download the Phone Link app to your phone by scanning a QR code. Although there are certain limitations, you can use this to link your mobile device to your PC.
+Many Android devices are compatible with the **[phone Link App](https://phonelinkapp.github.io/)**. The application can be downloaded through the Google Play Store or the MS Store. Few Samsung Galaxy phones have pre-installed applications. Sometimes you can download the Phone Link app to your phone by scanning a QR code. Although there are certain limitations, you can use this to link your mobile device to your PC.
 
 
 ## The Benefits of Phone Link App
@@ -17,7 +17,7 @@ Many Android devices are compatible with the phone link app. The application can
 
 * Increased productivity: With Phone Link, you can access your phone’s apps and data from your computer, making it easier to get work done and be more productive.
 * Improved gaming experience: The app’s real-time mirroring feature makes it perfect for gamers, giving you a larger screen, mouse, and keyboard to play with.
-* Better mobile connectivity: Phone Link makes it easy to stay connected with friends and family. Follow Martose for more!
+* Better mobile connectivity: **[phone Link App](https://phonelinkapp.github.io/)** makes it easy to stay connected with friends and family. Follow Martose for more!
 
 ## System Requirements for Phone Link App
 
